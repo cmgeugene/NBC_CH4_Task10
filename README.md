@@ -4,6 +4,7 @@
 ### 필수 기능
 + `SetUserName()`, `GetUserName()` 이벤트그래프에 노출
     + 각각의 명령어로 `UserName` 저장/불러오기
+    ![Image](https://github.com/user-attachments/assets/6af7a53c-11fa-41f0-9519-ba1d6794af8a)
 
 ### 도전 기능
 + GameInstanceSubsystem 을 이용해서 다른 레벨에서도 사용할 수 있도록 만들기
